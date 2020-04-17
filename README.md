@@ -1,7 +1,7 @@
 ### **IBM Introduction to Deep Learning & Neural Networks with Keras Course Project**
 
 ------
-This repository is a submission of *Aisa Mijeno* for Scalable Machine Learning On Big Data Using Apache Spark course project.
+This repository is a submission of *Aisa Mijeno* for Introduction to Deep Learning & Neural Networks with Keras course project.
 <br>
 
 #### **Project Description**
